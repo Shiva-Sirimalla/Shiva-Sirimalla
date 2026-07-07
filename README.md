@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="mailto:shivasirimalla19@gmail.com"><img src="https://img.shields.io/badge/shivasirimalla19@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shiva-sirimalla-b9225a22a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shiva-sirimalla-b9225a22a/"><img src="https://img.shields.io/badge/shiva%20sirimalla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <!-- EDIT: add portfolio/resume links if you have them -->
   <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
