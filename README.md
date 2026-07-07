@@ -33,7 +33,9 @@
   - Large Language Models (LLMs)
   - AI Agents & Autonomous Systems
   - Applied Machine Learning
-- ⚡ **Fun Fact:** <!-- EDIT: add something memorable about yourself -->
+- ⚡ **Fun Fact:**
+  - 🤖 I like building things that make life easier.
+  - 🎧 I code best with music on.
 
 ---
 
