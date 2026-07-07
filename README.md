@@ -1,9 +1,7 @@
 <!--
   ============================================================
   Shiva Sirimalla — GitHub Profile README
-  Replace every <!-- EDIT: ... --> comment with your own info.
-  Replace "shiva-sirimalla" with your actual GitHub username
-  everywhere it appears (badges, stats cards, streak stats).
+ 
   ============================================================
 -->
 
@@ -16,10 +14,9 @@
 </p>
 
 <p align="center">
-  <!-- EDIT: replace links with your real profiles -->
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:shivasirimalla19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shiva-sirimalla-b9225a22a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <!-- EDIT: add portfolio/resume links if you have them -->
   <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://your-resume-link.com"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
 </p>
@@ -86,38 +83,40 @@
 
 ### 🚀 Featured Projects
 
-<!-- EDIT: replace with your real projects -->
+#### 🔹 [AI Document Intelligence Assistant](https://github.com/Shiva-Sirimalla/AI-Document-Intelligence-Assistant)
+RAG-powered document Q&A system — upload PDFs, run semantic search, chat with your documents, and get instant summaries.
+**Tech:** Python, Transformers, FAISS, LangChain, Streamlit
 
-#### 🔹 [Project Name 1](https://github.com/shiva-sirimalla/project-1)
-An AI-powered application that [brief description — e.g., "answers questions over private documents using RAG"].
-**Tech:** Python, LangChain, OpenAI API, Pinecone
-🔗 [Live Demo](https://your-demo-link.com)
+#### 🔹 [AI Resume Screening Agent](https://github.com/Shiva-Sirimalla/Ai-resume-screening-agent)
+An AI-powered recruiting agent that ranks candidates using FAISS semantic search, skill matching, and Groq LLM evaluation, with batch PDF/DOCX upload and CSV/JSON export.
+**Tech:** Python, FAISS, Groq LLM, Streamlit
 
-#### 🔹 [Project Name 2](https://github.com/shiva-sirimalla/project-2)
-[Brief description of project 2 — e.g., "a fine-tuned LLM chatbot for customer support automation"].
-**Tech:** PyTorch, HuggingFace, FastAPI
-🔗 [Live Demo](https://your-demo-link.com)
+#### 🔹 [AI SharePoint Agent](https://github.com/Shiva-Sirimalla/Ai-Sharepoint-Agent)
+A document intelligence system that brings RAG-based Q&A to enterprise document repositories.
+**Tech:** LangChain, FAISS, Groq Llama 3.3, Streamlit
 
-#### 🔹 [Project Name 3](https://github.com/shiva-sirimalla/project-3)
-[Brief description of project 3].
-**Tech:** Node.js, React, MongoDB
-🔗 [Live Demo](https://your-demo-link.com)
+#### 🔹 [AI Software Development Agent](https://github.com/Shiva-Sirimalla/ai-software-development-agent)
+A developer-focused assistant that accelerates everyday coding tasks with an AI chat interface and PDF summarization, built on Groq/OpenAI-compatible models.
+**Tech:** Python, Streamlit, Groq/OpenAI API
+
+<!-- Want more projects listed? Add ai-medical-assistant or Smart-Attendance-Agent here too -->
+🔗 See all repos → [github.com/Shiva-Sirimalla](https://github.com/Shiva-Sirimalla?tab=repositories)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shiva-sirimalla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-sirimalla&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shiva-Sirimalla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiva-Sirimalla&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiva-sirimalla&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva-Sirimalla&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shiva-sirimalla&theme=tokyonight&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Shiva-Sirimalla&theme=tokyonight&row=1&column=6"/>
 </p>
 
 ---
@@ -155,4 +154,4 @@ An AI-powered application that [brief description — e.g., "answers questions o
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/shiva-sirimalla">shiva-sirimalla</a> — thanks for stopping by!</i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/Shiva-Sirimalla">Shiva-Sirimalla</a> — thanks for stopping by!</i></p>
