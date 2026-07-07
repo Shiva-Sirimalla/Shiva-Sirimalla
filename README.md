@@ -10,11 +10,11 @@
 
 <!-- EDIT: Animated typing banner — customize the &lines= text below -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Generative+AI+Engineer;LLM+Fine-Tuning+%7C+RAG+Pipelines;Building+AI+Agents+that+Ship;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Generative+AI+Engineer;LLM+Fine-Tuning+%7C+RAG+Pipelines;B[...]
 </p>
 
 <p align="center">
-  <a href="mailto:shivasirimalla19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:shivasirimalla19@gmail.com"><img src="https://img.shields.io/badge/shivasirimalla19@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/shiva-sirimalla-b9225a22a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <!-- EDIT: add portfolio/resume links if you have them -->
   <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
