@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shiva Sirimalla</h1>
+<h1 align="center">Hi 👋, I'm 
+                         Shiva Sirimalla</h1>
 <h3 align="center">Generative AI Engineer | LLM & AI Systems Builder</h3>
 
 <!-- EDIT: Animated typing banner — customize the &lines= text below -->
