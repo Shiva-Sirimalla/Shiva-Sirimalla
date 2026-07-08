@@ -1,11 +1,9 @@
-
-
 <h1 align="center">Hi 👋, I'm Shiva Sirimalla</h1>
 <h3 align="center">Generative AI Engineer | LLM & AI Systems Builder</h3>
 
 <!-- EDIT: Animated typing banner — customize the &lines= text below -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Generative+AI+Engineer;LLM+Fine-Tuning+%7C+RAG+Pipelines;B[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Generative+AI+Engineer;LLM+Fine-Tuning+%7C+RAG+Pipelines;B[[...]
 </p>
 
 <p align="center">
@@ -146,9 +144,9 @@ A developer-focused assistant that accelerates everyday coding tasks with an AI 
 
 <h3 align="center">📫 Let's Connect!</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shiva-sirimalla-b9225a22a/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:shivasirimalla19@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center"><i>⭐️ From <a href="https://github.com/Shiva-Sirimalla">Shiva-Sirimalla</a> — thanks for stopping by!</i></p>
